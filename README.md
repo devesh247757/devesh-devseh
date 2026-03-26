@@ -3,20 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Devesh+%F0%9F%91%8B;ML+Engineer+%7C+MLOps+%7C+Computer+Vision;Building+models+that+actually+ship.)
  
 </div>
- 
----
- 
-```python
-# about.py
-name             = "Devesh"
-role             = "ML Engineer (MLOps + Computer Vision)"
-currently_building = "Real-time object detection microservices"
-learning         = "eBPF for ML system observability"
-ask_me_about     = ["model serving", "CV pipelines", "infra at scale"]
-open_to          = ["collaborations", "full-time roles", "interesting problems"]
-```
- 
----
+
  
 ## 🔭 Computer Vision
  
